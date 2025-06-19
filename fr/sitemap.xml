@@ -3,653 +3,778 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://docs-acegreen.web.app/fr/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/"
+      href="https://mis3085.github.io/docs-acegreen/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/"
+      href="https://mis3085.github.io/docs-acegreen/de/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/"
+      href="https://mis3085.github.io/docs-acegreen/es/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/"
+      href="https://mis3085.github.io/docs-acegreen/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/"
+      href="https://mis3085.github.io/docs-acegreen/pt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/"
+      href="https://mis3085.github.io/docs-acegreen/ru/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/"
+      href="https://mis3085.github.io/docs-acegreen/hi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/"
+      href="https://mis3085.github.io/docs-acegreen/ja/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/"
+      href="https://mis3085.github.io/docs-acegreen/fr/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/company/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/company/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/company/"
+      href="https://mis3085.github.io/docs-acegreen/en/company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/company/"
+      href="https://mis3085.github.io/docs-acegreen/de/company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/company/"
+      href="https://mis3085.github.io/docs-acegreen/es/company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/company/"
+      href="https://mis3085.github.io/docs-acegreen/it/company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/company/"
+      href="https://mis3085.github.io/docs-acegreen/pt/company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/company/"
+      href="https://mis3085.github.io/docs-acegreen/ru/company/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/company/"
+      href="https://mis3085.github.io/docs-acegreen/hi/company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/company/"
+      href="https://mis3085.github.io/docs-acegreen/ja/company/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/company/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/company/"
+      href="https://mis3085.github.io/docs-acegreen/fr/company/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/news-2/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/news-2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/en/news-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/de/news-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/es/news-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/it/news-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/pt/news-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/ru/news-2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/news-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/hi/news-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/ja/news-2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/news-2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/news-2/"
+      href="https://mis3085.github.io/docs-acegreen/fr/news-2/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/applications/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/applications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/applications/"
+      href="https://mis3085.github.io/docs-acegreen/en/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/applications/"
+      href="https://mis3085.github.io/docs-acegreen/de/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/applications/"
+      href="https://mis3085.github.io/docs-acegreen/es/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/applications/"
+      href="https://mis3085.github.io/docs-acegreen/it/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/applications/"
+      href="https://mis3085.github.io/docs-acegreen/pt/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/applications/"
+      href="https://mis3085.github.io/docs-acegreen/ru/applications/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/applications/"
+      href="https://mis3085.github.io/docs-acegreen/hi/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/applications/"
+      href="https://mis3085.github.io/docs-acegreen/ja/applications/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/applications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/applications/"
+      href="https://mis3085.github.io/docs-acegreen/fr/applications/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/company/certifications/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/company/certifications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/en/company/certifications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/de/company/certifications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/es/company/certifications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/it/company/certifications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/pt/company/certifications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/ru/company/certifications/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/company/certifications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/hi/company/certifications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/ja/company/certifications/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/company/certifications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/company/certifications/"
+      href="https://mis3085.github.io/docs-acegreen/fr/company/certifications/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/contactus/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/contactus/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/en/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/de/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/es/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/it/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/pt/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/ru/contactus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/hi/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/ja/contactus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/contactus/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/contactus/"
+      href="https://mis3085.github.io/docs-acegreen/fr/contactus/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/news-2/exhibition-6/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/news-2/exhibition-6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/en/news-2/exhibition-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/de/news-2/exhibition-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/es/news-2/exhibition-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/it/news-2/exhibition-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/pt/news-2/exhibition-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/ru/news-2/exhibition-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/news-2/exhibition-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/hi/news-2/exhibition-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/ja/news-2/exhibition-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/news-2/exhibition-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/news-2/exhibition-6/"
+      href="https://mis3085.github.io/docs-acegreen/fr/news-2/exhibition-6/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/shop/eco-friendly-filament-yarn-4/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/shop/eco-friendly-filament-yarn-4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/en/shop/eco-friendly-filament-yarn-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/de/shop/eco-friendly-filament-yarn-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/es/shop/eco-friendly-filament-yarn-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/it/shop/eco-friendly-filament-yarn-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/pt/shop/eco-friendly-filament-yarn-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/ru/shop/eco-friendly-filament-yarn-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/hi/shop/eco-friendly-filament-yarn-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/ja/shop/eco-friendly-filament-yarn-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/shop/eco-friendly-filament-yarn-4/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/shop/eco-friendly-filament-yarn-4/"
+      href="https://mis3085.github.io/docs-acegreen/fr/shop/eco-friendly-filament-yarn-4/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/company/history/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/company/history/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/en/company/history/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/de/company/history/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/es/company/history/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/it/company/history/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/pt/company/history/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/ru/company/history/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/company/history/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/hi/company/history/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/ja/company/history/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/company/history/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/company/history/"
+      href="https://mis3085.github.io/docs-acegreen/fr/company/history/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/shop/melt-blown-nonwoven-5/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/shop/melt-blown-nonwoven-5/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/en/shop/melt-blown-nonwoven-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/de/shop/melt-blown-nonwoven-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/es/shop/melt-blown-nonwoven-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/it/shop/melt-blown-nonwoven-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/pt/shop/melt-blown-nonwoven-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/ru/shop/melt-blown-nonwoven-5/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/shop/melt-blown-nonwoven-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/hi/shop/melt-blown-nonwoven-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/ja/shop/melt-blown-nonwoven-5/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/shop/melt-blown-nonwoven-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/shop/melt-blown-nonwoven-5/"
+      href="https://mis3085.github.io/docs-acegreen/fr/shop/melt-blown-nonwoven-5/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/shop/pp-5/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/shop/pp-5/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/en/shop/pp-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/de/shop/pp-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/es/shop/pp-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/it/shop/pp-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/pt/shop/pp-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/ru/shop/pp-5/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/shop/pp-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/hi/shop/pp-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/ja/shop/pp-5/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/shop/pp-5/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/shop/pp-5/"
+      href="https://mis3085.github.io/docs-acegreen/fr/shop/pp-5/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/company/business-philosophy/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/company/business-philosophy/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/en/company/business-philosophy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/de/company/business-philosophy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/es/company/business-philosophy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/it/company/business-philosophy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/pt/company/business-philosophy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/ru/company/business-philosophy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/company/business-philosophy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/hi/company/business-philosophy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/ja/company/business-philosophy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/company/business-philosophy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/company/business-philosophy/"
+      href="https://mis3085.github.io/docs-acegreen/fr/company/business-philosophy/"
     />
   </url>
   <url>
-    <loc>https://docs-acegreen.web.app/fr/shop/</loc>
+    <loc>https://mis3085.github.io/docs-acegreen/fr/shop/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://docs-acegreen.web.app/en/shop/"
+      href="https://mis3085.github.io/docs-acegreen/en/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://docs-acegreen.web.app/de/shop/"
+      href="https://mis3085.github.io/docs-acegreen/de/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://docs-acegreen.web.app/es/shop/"
+      href="https://mis3085.github.io/docs-acegreen/es/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://docs-acegreen.web.app/it/shop/"
+      href="https://mis3085.github.io/docs-acegreen/it/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://docs-acegreen.web.app/pt/shop/"
+      href="https://mis3085.github.io/docs-acegreen/pt/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://docs-acegreen.web.app/ru/shop/"
+      href="https://mis3085.github.io/docs-acegreen/ru/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-acegreen/ar/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://docs-acegreen.web.app/hi/shop/"
+      href="https://mis3085.github.io/docs-acegreen/hi/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://docs-acegreen.web.app/ja/shop/"
+      href="https://mis3085.github.io/docs-acegreen/ja/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-acegreen/ko/shop/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://docs-acegreen.web.app/fr/shop/"
+      href="https://mis3085.github.io/docs-acegreen/fr/shop/"
     />
   </url>
 </urlset>
