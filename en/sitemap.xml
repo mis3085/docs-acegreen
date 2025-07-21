@@ -598,66 +598,6 @@
     />
   </url>
   <url>
-    <loc>https://smp.acegreen.com.tw/en/shop/pp-5/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.acegreen.com.tw/de/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.acegreen.com.tw/es/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.acegreen.com.tw/fr/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.acegreen.com.tw/it/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.acegreen.com.tw/pt/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.acegreen.com.tw/ru/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.acegreen.com.tw/ar/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.acegreen.com.tw/hi/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.acegreen.com.tw/ja/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.acegreen.com.tw/ko/shop/pp-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.acegreen.com.tw/en/shop/pp-5/"
-    />
-  </url>
-  <url>
     <loc>https://smp.acegreen.com.tw/en/news-2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
